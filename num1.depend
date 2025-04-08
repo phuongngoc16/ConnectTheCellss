@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1744118024 source:e:\uet\ltnc\test1\num1\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<vector>
+	"defs.h"
+	"graphics.h"
+	"Time.h"
+	"logic.h"
+	"text.h"
+	"music.h"
+
+1744118494 source:e:\uet\ltnc\test1\num1\graphics.cpp
+	<SDL.h>
+	<iostream>
+	<SDL_image.h>
+	"graphics.h"
+	<SDL_ttf.h>
+
+1744118494 e:\uet\ltnc\test1\num1\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	<SDL_ttf.h>
+	<stdlib.h>
+	<algorithm>
+	<string>
+	<SDL_mixer.h>
+
+1744118024 e:\uet\ltnc\test1\num1\defs.h
+
+1744114520 source:e:\uet\ltnc\test1\num1\time.cpp
+	"Time.h"
+
+1744115692 e:\uet\ltnc\test1\num1\time.h
+	"graphics.h"
+	<ctime>
+	<cstdlib>
+
+1744090649 source:e:\uet\ltnc\test1\num1\music.cpp
+	"music.h"
+
+1744118589 source:e:\uet\ltnc\test1\num1\logic.cpp
+	"logic.h"
+	<SDL.h>
+	"graphics.h"
+	"Time.h"
+	<algorithm>
+	"text.h"
+	"music.h"
+
+1744118589 e:\uet\ltnc\test1\num1\logic.h
+	"defs.h"
+	"graphics.h"
+	"time.h"
+	<vector>
+
+1744118589 source:e:\uet\ltnc\test1\num1\text.cpp
+	"text.h"
+
+1744091864 e:\uet\ltnc\test1\num1\text.h
+	"graphics.h"
+
+1744090649 e:\uet\ltnc\test1\num1\music.h
+	"graphics.h"
+
